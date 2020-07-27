@@ -26,7 +26,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-First time utilizing Swift and Xcode — was an adjustment.
+First time utilizing Swift and Xcode — was an adjustment. Only prior experience with programming is in Java.
  
 ## License
 
