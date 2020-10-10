@@ -4,9 +4,9 @@ Tipper is a tip calculator application for iOS.
 
 ## User Stories
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-- [ ] Added styling to make the app look cleaner.
+- [x] Added styling to make the app look cleaner.
 
 ## Video Walkthrough 
 
